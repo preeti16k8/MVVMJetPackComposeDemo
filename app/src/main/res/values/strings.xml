@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MVVMJetPackComposeDemo</string>
+    <string name="title_activity_user_detail">UserDetailActivity</string>
+    <string name="please_check_internet">Please check internet connection</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="online_deals">Online Deals</string>
+    <string name="rewards">Rewards</string>
+    <string name="transfer_rx">Transfer Rx</string>
+    <string name="refill_by_scan">Refill by Scan</string>
+</resources>
